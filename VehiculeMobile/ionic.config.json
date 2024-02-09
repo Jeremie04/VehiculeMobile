@@ -1,0 +1,7 @@
+{
+  "name": "VehiculeMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

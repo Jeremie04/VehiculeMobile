@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025934926866",
+    "project_id": "vehicule-7ec37",
+    "storage_bucket": "vehicule-7ec37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025934926866:android:7948bfab1ea0ab524864cb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc7dNfdo8tAfR5uDj7iGzMIs2yXT_Mvlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
